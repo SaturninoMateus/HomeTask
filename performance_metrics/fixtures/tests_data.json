@@ -1,0 +1,75 @@
+[
+  {
+    "model": "performance_metrics.sampledataset",
+    "pk": 1,
+    "fields": {
+      "created_at": 1557707270.816152,
+      "updated_at": 1557707270.816207,
+      "deleted": false,
+      "date": "2017-05-17",
+      "channel": "adcolony",
+      "country": "US",
+      "os": "android",
+      "impressions": 19887,
+      "clicks": 494,
+      "installs": 76,
+      "spend": "148.20",
+      "revenue": "149.04"
+    }
+  },
+  {
+    "model": "performance_metrics.sampledataset",
+    "pk": 2,
+    "fields": {
+      "created_at": 1557707270.821375,
+      "updated_at": 1557707270.821416,
+      "deleted": false,
+      "date": "2017-05-17",
+      "channel": "adcolony",
+      "country": "US",
+      "os": "ios",
+      "impressions": 13886,
+      "clicks": 336,
+      "installs": 60,
+      "spend": "100.80",
+      "revenue": "210.24"
+    }
+  },
+
+  {
+    "model": "performance_metrics.sampledataset",
+    "pk": 966,
+    "fields": {
+      "created_at": 1557707274.65262,
+      "updated_at": 1557707274.652666,
+      "deleted": false,
+      "date": "2017-06-12",
+      "channel": "facebook",
+      "country": "GB",
+      "os": "android",
+      "impressions": 3237,
+      "clicks": 125,
+      "installs": 18,
+      "spend": "50.00",
+      "revenue": "20.00"
+    }
+  },
+  {
+    "model": "performance_metrics.sampledataset",
+    "pk": 967,
+    "fields": {
+      "created_at": 1557707274.656253,
+      "updated_at": 1557707274.656297,
+      "deleted": false,
+      "date": "2017-06-12",
+      "channel": "facebook",
+      "country": "MT",
+      "os": "ios",
+      "impressions": 3378,
+      "clicks": 71,
+      "installs": 7,
+      "spend": "35.50",
+      "revenue": "0.00"
+    }
+  }
+]

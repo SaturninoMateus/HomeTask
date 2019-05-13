@@ -1,0 +1,4 @@
+Django==2.2.1
+django-unixtimestampfield==0.3.9
+djangorestframework==3.9.4
+django-filter==2.1.0
